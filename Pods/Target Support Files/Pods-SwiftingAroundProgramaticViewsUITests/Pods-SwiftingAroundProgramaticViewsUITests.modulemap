@@ -1,0 +1,6 @@
+framework module Pods_SwiftingAroundProgramaticViewsUITests {
+  umbrella header "Pods-SwiftingAroundProgramaticViewsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
