@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         self.window = UIWindow.init(frame: UIScreen.main.bounds)
         self.window?.rootViewController = UINavigationController.init(rootViewController: ProfileViewController.init())
-        self.window?.backgroundColor = UIColor.black
+        self.window?.backgroundColor = UIColor.white
         self.window?.makeKeyAndVisible()
 
         
